@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Red Tomatoes",
+        "description": "Fresh, ripe red tomatoes, perfect for salads and cooking.",
+        "price": 3.99,
+        "unit": "per lb",
+        "image": "https://www.alimentarium.org/sites/default/files/media/image/2017-02/AL027-01_pomme_de_terre_0_0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Avocado",
+        "description": "Creamy Hass avocados, ideal for guacamole or toast.",
+        "price": 1.50,
+        "unit": "each",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgQl7av2s2J_QFMxtjIQnrZXdF_GmLX6nZw&s"
+    },
+    {
+        "id": 3,
+        "name": "Bananas",
+        "description": "Ripe and ready-to-eat bananas, a great source of potassium.",
+        "price": 0.79,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4g5wOq5NLd-7RKhfm7k4N1OpT1yBY1lXF7g&s"
+    },
+    {
+        "id": 4,
+        "name": "Carrots",
+        "description": "Crisp and sweet carrots, great for snacking or adding to stews.",
+        "price": 1.29,
+        "unit": "per bunch",
+        "image": "https://www.veggycation.com.au/siteassets/veggycationvegetable/carrots.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Broccoli Crowns",
+        "description": "Fresh broccoli crowns, rich in vitamins and fiber.",
+        "price": 2.49,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCl9yVZrWNiJPNQ9MCM08JPhX07sqGv_OaEA&s"
+    },
+    {
+        "id": 6,
+        "name": "Fuji Apples",
+        "description": "Sweet and crispy Fuji apples, perfect for a healthy snack.",
+        "price": 1.99,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLS_2XTGdeCmakVnKs4Bnev5yr29zGXId3Q&s"
+    },
+    {
+        "id": 7,
+        "name": "Cucumber",
+        "description": "Cool and crisp cucumbers, perfect for salads.",
+        "price": 0.99,
+        "unit": "each",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-4rf0Ai6x5Y3ceOk98eBsLAxyvvliVgktKg&s"
+    },
+    {
+        "id": 8,
+        "name": "Red Onion",
+        "description": "Sharp, flavorful red onions, great for burgers and salads.",
+        "price": 0.89,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhKH1rNjia1cA-5HJtr22xV1GF9O_VnrH7A&s"
+    },
+    {
+        "id": 9,
+        "name": "Sweet Potatoes",
+        "description": "Nutrient-rich sweet potatoes, great for roasting or mashing.",
+        "price": 1.49,
+        "unit": "per lb",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Sweet-potatoes-ca0d8f4.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Baby Spinach",
+        "description": "Pre-washed baby spinach leaves, perfect for quick salads.",
+        "price": 3.49,
+        "unit": "per bag",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jlcRMYhFbt-WudA_wAZkywQZutriX2fPtw&s"
+    },
+    {
+        "id": 11,
+        "name": "Russet Potatoes",
+        "description": "Classic russet potatoes, ideal for baking or making fries.",
+        "price": 0.69,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hVBq2HqU1Jhzq78QbrvrwPgG0YFbvjNb0w&s"
+    },
+    {
+        "id": 12,
+        "name": "Green Bell Peppers",
+        "description": "Crunchy green bell peppers, a versatile addition to any meal.",
+        "price": 1.19,
+        "unit": "each",
+        "image": "https://www.bettycrocker.com/-/media/GMI/Core-Sites/BC/legacy/Images/Betty-Crocker/Tips/TipsLibrary/Ingedients/Migration-Ingredients/Cooking-with-Bell-Peppers_hero.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lemons",
+        "description": "Tart and juicy lemons, perfect for beverages and recipes.",
+        "price": 0.50,
+        "unit": "each",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZVC0koLkY3q1fMHSdn6hu50qCEPyFMi8zw&s"
+    },
+    {
+        "id": 14,
+        "name": "Strawberries",
+        "description": "Sweet and juicy strawberries, great for snacking or desserts.",
+        "price": 4.99,
+        "unit": "per pint",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhMXS1eh7zUXmWatL7f5bDDmzFuAUsp-jpQ&s"
+    },
+    {
+        "id": 15,
+        "name": "Chicken Breast",
+        "description": "Boneless, skinless chicken breast, a lean source of protein.",
+        "price": 5.99,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsHMfOGp_efXUq9tzBTbK4HjXo8PQEYdcPQ&s"
+    },
+    {
+        "id": 16,
+        "name": "Ground Beef",
+        "description": "85/15 ground beef, perfect for burgers or tacos.",
+        "price": 6.49,
+        "unit": "per lb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mYoaJiBQxSc1-9RujRoE3cF9jNC9CxYnvw&s"
+    },
+    {
+        "id": 17,
+        "name": "Milk",
+        "description": "Whole milk, 1 gallon.",
+        "price": 3.79,
+        "unit": "gallon",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1zEOfFy2wyp584Ge5TNog6yya_q5GQa7mA&s"
+    },
+    {
+        "id": 18,
+        "name": "Eggs",
+        "description": "Large Grade A eggs, 1 dozen.",
+        "price": 2.99,
+        "unit": "dozen",
+        "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Cheddar Cheese",
+        "description": "Block of sharp cheddar cheese, 8 oz.",
+        "price": 3.29,
+        "unit": "block",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvrXhWC0dQ004HxWQ15qJSSTy8o916leYX4A&s"
+    },
+    {
+        "id": 20,
+        "name": "White Bread",
+        "description": "Classic white sandwich bread, freshly baked.",
+        "price": 2.50,
+        "unit": "loaf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztk6F710kW9qBWuHOzSJjtHkde-HccwtxjQ&s"
+    },
+    {
+        "id": 21,
+        "name": "Pea",
+        "description": "Extra virgin olive oil, 16 oz bottle.",
+        "price": 8.99,
+        "unit": "bottle",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98Q6cEhFH72vZOcduJV11mxqyfIJwS_OUZ8Ww-QNzBaYUvG_b8SmOt52siGRrWDVBmVo&usqp=CAU"
+    },
+    {
+        "id": 22,
+        "name": "corn",
+        "description": "Classic spaghetti pasta, 1 lb box.",
+        "price": 1.79,
+        "unit": "box",
+        "image": "https://thumbs.dreamstime.com/b/single-ear-corn-isolated-white-background-single-ear-corn-isolated-white-background-as-package-design-element-107274418.jpg"
+    },
+    {
+        "id": 23,
+        "name": " Wikipedia",
+        "description": "Honey Nut cereal, 12 oz box.",
+        "price": 4.29,
+        "unit": "box",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aubergine.jpg/250px-Aubergine.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Jhinga hybrid",
+        "description": "100% orange juice with no pulp, 64 oz.",
+        "price": 4.59,
+        "unit": "carton",
+        "image": "https://images.meesho.com/images/products/468355138/l9oaa_512.webp?width=512"
+    },
+    {
+        "id": 25,
+        "name": "Balantiyong ",
+        "description": "Medium roast whole coffee beans, 12 oz bag.",
+        "price": 9.99,
+        "unit": "bag",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvcZcyQH20Tx_-f9HYI223W8JeX2-tj-RCQ&s"
+    },
+    {
+        "id": 26,
+        "name": " Wikipedia",
+        "description": "Vanilla Greek yogurt, 32 oz tub.",
+        "price": 5.49,
+        "unit": "tub",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Filoma-Kohl_vor_der_Ernte.jpg/250px-Filoma-Kohl_vor_der_Ernte.jpg"
+    },
+    {
+        "id": 27,
+        "name": " Nutrition",
+        "description": "Absorbent paper towels, 6 rolls.",
+        "price": 7.99,
+        "unit": "pack",
+        "image": "https://nutritionadvance.com/wp-content/uploads/2018/01/east-asian-daikon-radish.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Radish Pods",
+        "description": "Lemon-scented dish soap, 24 oz bottle.",
+        "price": 2.99,
+        "unit": "bottle",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/ZlKXI76DAp-KYJB1f9U_ASp_gZw=/1280x960/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/201105200901424735352233_4aa2512a7e-400x300.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Karela",
+        "description": "Heavy-duty trash bags, 50 count.",
+        "price": 9.50,
+        "unit": "box",
+        "image": "https://t4.ftcdn.net/jpg/15/78/39/51/360_F_1578395137_F23Q0VM3U3ECOc0CXbei9qQrhXkcFdGz.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Stem",
+        "description": "Fresh scent laundry detergent, 92 oz.",
+        "price": 12.99,
+        "unit": "bottle",
+        "image": "https://housing.com/news/wp-content/uploads/2022/11/stem-vegetables-compressed-1.jpg"
+    }
+]
